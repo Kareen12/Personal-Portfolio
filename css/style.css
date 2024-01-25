@@ -373,7 +373,7 @@ header.shadow {
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
   padding-top: 35px;
 }
 .project_card{
